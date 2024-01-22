@@ -1,0 +1,31 @@
+Iránytás:
+A-D - jobbra-balra mozgás
+Egér - kamera mozgás
+Bal egér gomb - lövés
+R - újratöltés (ha nem üres a tár).
+
+Beállítások:
+A főmenü beállítás menüpontjában van lehetőséged játékos nevet megadni.
+Van lehetőséged lenémítani a zongorista által játszott zenéket (ebben az esetben a játékban sem zongorázik a zongorista)
+A játék alap hangerejét és a zene hangerejét tudod szabályozi.
+Illetve tudsz célkereszt fajtát is választani.
+
+
+Ellenfelek:
+Ellenfélnek számít minden olyan karakter aki rád lő.
+Az ellenfelek meglövése +1 pont
+A civilek meglövése -3 pont
+A zongorista meglövése +1 pont
+
+Életpontok:
+Minden játékos 3 élettel kezd
+Random időközönként jelennek meg a pályán szív ikonok, ha ezeket meglövöd és kevesebb az életed 3-nál, akkor kapsz plusz 1 életet.
+A játék akkor ér véget ha meghalsz. (Endless Game)
+Ha meghaltál akkor a játék végén, illetve a főmenü records menüben megtalálod a pontokat összesítő táblázatot.
+
+
+Mivel ez egy demo játék, így a játék során nem történik változás, a végtelenségig lehet lőni az ellenségeket és pontokat gyűjteni.
+
+Jó szórakozást kívánok!
+
+~Dorián
